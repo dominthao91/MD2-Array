@@ -1,0 +1,2 @@
+public class MaxInArray2 {
+}
